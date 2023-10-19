@@ -1,13 +1,13 @@
 {
   "name": "website",
   "version": "1.0.0",
-  "description": "",
+  "description": "madelineharlow.com",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":"tailwindcss -i ./src/input.css -o ./dist/style.css --watch"
+    "dev":"tailwindcss -i ./src/input.css -o ./css/style.css --watch"
   },
-  "author": "",
+  "author": "Madeline Harlow",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.3.3"
